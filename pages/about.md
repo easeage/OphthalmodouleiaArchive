@@ -14,6 +14,17 @@ credits: true
 
 ## About the Collection
 
+Works Cited:
+
+Lowe, R F. “Georg Bartisch: Ophthalmodouleia, der Augendienst, 1583. A treatise on service of 
+the eyes and a review of the chapter on strabismus.” Australian and New Zealand journal of ophthalmology vol. 25,4 (1997): 295-8. doi:10.1111/j.1442-9071.1997.tb01518.x
+
+Dethorne. “George Bartisch: An Inventive Look Into Ophthalmodouleia.” UT San Antonio 
+Health Library, 15 January 2015. 
+
+“Georg Bartisch's Ophthalmodouleia (1583).” The Public Domain Review, November 5, 2015.
+
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
