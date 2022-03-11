@@ -26,6 +26,9 @@ Health Library, 15 January 2015.
 
 Harris, Karen. “The Evil Eye.” History Daily, https://historydaily.org/the-evil-eye
 
+Ortiz-Perez S, Patel BC. Blepharochalasis Syndrome. [Updated 2022 Jan 13]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK560620/
+
+
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
