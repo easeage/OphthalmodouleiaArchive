@@ -24,6 +24,8 @@ Health Library, 15 January 2015.
 
 “Georg Bartisch's Ophthalmodouleia (1583).” The Public Domain Review, November 5, 2015.
 
+Harris, Karen. “The Evil Eye.” History Daily, https://historydaily.org/the-evil-eye
+
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
